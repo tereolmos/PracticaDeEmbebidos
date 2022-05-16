@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "myapp.h": "c",
+        "main.h": "c",
+        "funcion.h": "c",
+        "calculadora.h": "c"
+    }
+}
